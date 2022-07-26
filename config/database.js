@@ -1,6 +1,6 @@
 
 
 module.exports = {
-    "database" : "mongodb+srv://user_1:user_1@cluster0.gpuss.mongodb.net/?retryWrites=true&w=majority",
-    "secret":"myapplicationsecretkey"
+    "database" : "mongodb+srv://<User Name>:<Password>@cluster0.gpuss.mongodb.net/?retryWrites=true&w=majority",
+    "secret":"<Secret key>"
 }
